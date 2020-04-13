@@ -27,7 +27,7 @@ library(viridis)
 
 ### Results
 ![Bubble plot of realness](https://github.com/chararchter/realness/blob/master/real.jpg)
-
+![Box plot of realness](https://github.com/chararchter/realness/blob/master/real_boxplot.jpg)
 
 ### Data source:
 [twitter survey](https://twitter.com/QiaochuYuan/status/1248811329340592128)
