@@ -1,4 +1,4 @@
-##Vizualisation of realness
+## Vizualisation of realness
 
 1. first [create your twitter app](https://developer.twitter.com/en/apps)
 1. update auth.R with [your keys](https://rtweet.info/articles/auth.html#access-tokensecret-method)
@@ -25,9 +25,9 @@ library(viridis)
 	1. scrapTwitter.R
 	1. plot.R
 
-###Results
+### Results
 ![Bubble plot of realness](https://github.com/chararchter/realness/blob/master/real.jpg)
 
 
-###Data source:
+### Data source:
 [twitter survey](https://twitter.com/QiaochuYuan/status/1248811329340592128)
