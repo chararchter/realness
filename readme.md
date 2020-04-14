@@ -26,8 +26,12 @@ library(viridis)
 	1. plot.R
 
 ### Results
-![Bubble plot of realness](https://github.com/chararchter/realness/blob/master/real.jpg)
-![Box plot of realness](https://github.com/chararchter/realness/blob/master/real_boxplot.jpg)
+![Bubble plot of realness](https://github.com/chararchter/realness/blob/master/plots/bubbleplot.jpeg)
+![Box plot of realness](https://github.com/chararchter/realness/blob/master/plots/boxplot.jpeg)
+![Heatmap of realness](https://github.com/chararchter/realness/blob/master/plots/heatmap1.jpeg)
+![Heatmap of realness](https://github.com/chararchter/realness/blob/master/plots/heatmap2.jpeg)
+![Heatmap of realness](https://github.com/chararchter/realness/blob/master/plots/heatmap3.jpeg)
+
 
 ### Data source:
 [twitter survey](https://twitter.com/QiaochuYuan/status/1248811329340592128)
