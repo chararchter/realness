@@ -11,6 +11,7 @@ install.packages(tidyr)
 install.packages(dplyr)
 install.packages(ggplot2)
 install.packages(viridis)
+install.packages(lattice)
 
 # read packages
 library(rtweet)
@@ -19,6 +20,7 @@ library(tidyr)
 library(dplyr)
 library(ggplot2)
 library(viridis)
+library(lattice)
 ```
 1. run
 	1. auth.R
@@ -27,11 +29,15 @@ library(viridis)
 
 ### Results
 ![Bubble plot of realness](https://github.com/chararchter/realness/blob/master/plots/bubbleplot.jpeg)
-![Box plot of realness](https://github.com/chararchter/realness/blob/master/plots/boxplot.jpeg)
-![Heatmap of realness](https://github.com/chararchter/realness/blob/master/plots/heatmap1.jpeg)
-![Heatmap of realness](https://github.com/chararchter/realness/blob/master/plots/heatmap2.jpeg)
+<!-- ![Box plot of realness](https://github.com/chararchter/realness/blob/master/plots/boxplot.jpeg) -->
 ![Heatmap of realness](https://github.com/chararchter/realness/blob/master/plots/heatmap3.jpeg)
+<!-- ![Heatmap of realness](https://github.com/chararchter/realness/blob/master/plots/heatmap3.jpeg) -->
+<!-- ![Heatmap of realness](https://github.com/chararchter/realness/blob/master/plots/heatmap1.jpeg) -->
+![Comparison of groups who rank love and intelligence as most real](https://github.com/chararchter/realness/blob/master/plots/heatmap_comp.jpeg)
 
+The most interesting part in this comparison is relationship between the realest concept and the realness attributed to the money. The majority of group which rank love as the realest, rank money as least real. In contrast - the group who rank intelligence as the realest, rank money as second realest concept.
+
+The realness of morality is equally fascinating - the love group ranked morality as somewhat in the middle, wheras the intelligence group ranked it as least real.
 
 ### Data source:
 [twitter survey](https://twitter.com/QiaochuYuan/status/1248811329340592128)
